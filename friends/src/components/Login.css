@@ -1,0 +1,19 @@
+.login-form {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin: 5% auto;
+    align-items: center;
+}
+
+.username-input {
+    
+}
+
+.password-input {
+    margin: 5% 0;
+}
+
+.submit {
+    width: 25%;
+}
